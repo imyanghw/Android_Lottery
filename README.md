@@ -9,4 +9,6 @@
 ## 구현내용   
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/76413580/110277785-54ca1680-8019-11eb-9534-47b54df72ef3.jpg" width="22%"></image>
+<img src="https://user-images.githubusercontent.com/76413580/111862981-082cf680-899c-11eb-9bb7-50491c3391b6.gif" width="22%"></image>
+<img src="https://user-images.githubusercontent.com/76413580/111862984-09f6ba00-899c-11eb-9419-e6068a7d9eda.gif" width="22%"></image>
+
