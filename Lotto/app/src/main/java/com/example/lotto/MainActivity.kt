@@ -26,9 +26,7 @@ class MainActivity : AppCompatActivity() {
                     textView.text = "${numberArray[index]}"
                 }
             }
-
-            override fun onFinish() {
-            }
+            override fun onFinish() {}
         }
 
         lotteryWhirl.setOnClickListener {
